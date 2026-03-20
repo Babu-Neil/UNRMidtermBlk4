@@ -1,0 +1,765 @@
+[
+    {
+        "id": 1,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Back muscles, vertebral column, spinal cord, and nerve roots",
+        "question": "A patient presents with a 'Scottie dog with a collar' sign on an oblique lumbar radiograph, indicating a bilateral fracture of the pars interarticularis. If the vertebral body subsequently slips anteriorly, this condition is known as:",
+        "options": [
+            "Spondylolisthesis",
+            "Spondylolysis",
+            "Spina bifida occulta",
+            "Herniated nucleus pulposus"
+        ],
+        "correct_answer": "Spondylolisthesis",
+        "explanation": "Spondylolysis is a fracture of the pars interarticularis (the 'collar' on the Scottie dog). When this fracture allows the vertebral body to slip anteriorly relative to the vertebra below it, the condition progresses to spondylolisthesis."
+    },
+    {
+        "id": 2,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Back muscles, vertebral column, spinal cord, and nerve roots",
+        "question": "Which of the following ligaments of the vertebral column is unique in that it limits hyperextension of the spine, rather than hyperflexion?",
+        "options": [
+            "Anterior longitudinal ligament",
+            "Posterior longitudinal ligament",
+            "Ligamentum flavum",
+            "Interspinous ligament"
+        ],
+        "correct_answer": "Anterior longitudinal ligament",
+        "explanation": "The anterior longitudinal ligament runs down the anterior surface of the vertebral bodies and is the only spinal ligament that limits hyperextension (e.g., preventing whiplash). All other ligaments (PLL, ligamentum flavum, interspinous) are located posterior to the axis of rotation and limit hyperflexion."
+    },
+    {
+        "id": 3,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Back muscles, vertebral column, spinal cord, and nerve roots",
+        "question": "A patient suffers an ischemic stroke involving the anterior spinal artery. Which of the following neurological functions would most likely be PRESERVED?",
+        "options": [
+            "Proprioception and fine touch",
+            "Voluntary motor control",
+            "Pain sensation",
+            "Temperature sensation"
+        ],
+        "correct_answer": "Proprioception and fine touch",
+        "explanation": "The anterior spinal artery supplies the anterior two-thirds of the spinal cord (containing the spinothalamic tracts and corticospinal tracts). The posterior columns, which carry proprioception and fine touch, are supplied by the posterior spinal arteries and would be preserved in anterior spinal artery syndrome."
+    },
+    {
+        "id": 4,
+        "faculty": "Gregory Highison",
+        "session": "B4: Histo - Bone And Cartilage",
+        "question": "Which type of cartilage is characterized by the presence of dense Type I collagen fibers, a lack of a true perichondrium, and is typically found in the intervertebral discs and pubic symphysis?",
+        "options": [
+            "Fibrocartilage",
+            "Hyaline cartilage",
+            "Elastic cartilage",
+            "Articular cartilage"
+        ],
+        "correct_answer": "Fibrocartilage",
+        "explanation": "Fibrocartilage is a hybrid between dense regular connective tissue and cartilage. It contains both Type I and Type II collagen, lacks a perichondrium, and is designed to resist heavy compression and shearing forces, such as in the intervertebral discs."
+    },
+    {
+        "id": 5,
+        "faculty": "Gregory Highison",
+        "session": "B4: Histo - Bone And Cartilage",
+        "question": "During embryonic development, the flat bones of the skull and the clavicle form via a process where mesenchymal cells differentiate directly into osteoblasts. This process is known as:",
+        "options": [
+            "Intramembranous ossification",
+            "Endochondral ossification",
+            "Interstitial growth",
+            "Appositional growth"
+        ],
+        "correct_answer": "Intramembranous ossification",
+        "explanation": "Intramembranous ossification involves bone forming directly from mesenchymal tissue without a preexisting cartilage model. This forms the flat bones of the skull, the mandible, and the clavicles. Endochondral ossification requires a hyaline cartilage model first."
+    },
+    {
+        "id": 6,
+        "faculty": "Gregory Highison",
+        "session": "B4: Histo - Bone And Cartilage",
+        "question": "At the epiphyseal plate of a growing long bone, in which specific zone do chondrocytes rapidly enlarge, accumulate glycogen, and begin secreting alkaline phosphatase to promote matrix calcification?",
+        "options": [
+            "Zone of Hypertrophy",
+            "Zone of Proliferation",
+            "Zone of Resting Cartilage",
+            "Zone of Ossification"
+        ],
+        "correct_answer": "Zone of Hypertrophy",
+        "explanation": "In the Zone of Hypertrophy, the chondrocytes stop dividing and greatly enlarge (hypertrophy). They secrete alkaline phosphatase, which facilitates the calcification of the surrounding cartilaginous matrix, ultimately leading to their own death."
+    },
+    {
+        "id": 7,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Case-Control Studies",
+        "question": "A key structural characteristic of a Case-Control study is its directionality. How do investigators proceed in this type of study design?",
+        "options": [
+            "Start with the outcome (disease) and look backward for exposures",
+            "Start with the exposure and look forward for the outcome",
+            "Measure exposure and outcome simultaneously at a single point in time",
+            "Randomly assign the exposure and observe the outcome"
+        ],
+        "correct_answer": "Start with the outcome (disease) and look backward for exposures",
+        "explanation": "Case-Control studies begin at the end of the clinical story. Investigators identify individuals who already have the disease (cases) and those who do not (controls), and then look backward in time to compare their past exposures."
+    },
+    {
+        "id": 8,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Case-Control Studies",
+        "question": "Because Case-Control studies sample participants based on disease status rather than exposure, they cannot calculate true incidence rates. Therefore, the appropriate measure of association is the:",
+        "options": [
+            "Odds Ratio (OR)",
+            "Relative Risk (RR)",
+            "Absolute Risk Reduction (ARR)",
+            "Hazard Ratio (HR)"
+        ],
+        "correct_answer": "Odds Ratio (OR)",
+        "explanation": "Since the researcher sets the prevalence of the disease by choosing the number of cases and controls, true population risk cannot be calculated. The Odds Ratio (OR) is the mathematically valid measure for Case-Control studies."
+    },
+    {
+        "id": 9,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lec 2 - Upper Limb Shoulder, Arm, And Brachial Plexus",
+        "question": "A patient presents with inability to initiate abduction of the arm (the first 15 degrees). Which rotator cuff muscle is most likely injured, and what is its innervation?",
+        "options": [
+            "Supraspinatus; suprascapular nerve",
+            "Infraspinatus; suprascapular nerve",
+            "Deltoid; axillary nerve",
+            "Teres minor; axillary nerve"
+        ],
+        "correct_answer": "Supraspinatus; suprascapular nerve",
+        "explanation": "The supraspinatus muscle initiates arm abduction for the first 15 degrees before the deltoid takes over. It is innervated by the suprascapular nerve. It is also the most commonly torn rotator cuff tendon."
+    },
+    {
+        "id": 10,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lec 2 - Upper Limb Shoulder, Arm, And Brachial Plexus",
+        "question": "Surgical neck fractures of the humerus put the contents of the quadrangular space at high risk of injury. Which nerve and artery pass through this space?",
+        "options": [
+            "Axillary nerve and posterior circumflex humeral artery",
+            "Radial nerve and profunda brachii artery",
+            "Suprascapular nerve and suprascapular artery",
+            "Musculocutaneous nerve and brachial artery"
+        ],
+        "correct_answer": "Axillary nerve and posterior circumflex humeral artery",
+        "explanation": "The quadrangular space transmits the axillary nerve and the posterior circumflex humeral artery. Damage here (e.g., from shoulder dislocation or surgical neck fracture) results in weakened arm abduction (deltoid) and sensory loss over the lateral shoulder."
+    },
+    {
+        "id": 11,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lec 2 - Upper Limb Shoulder, Arm, And Brachial Plexus",
+        "question": "Which terminal branch of the brachial plexus pierces the coracobrachialis muscle and provides motor innervation to the entire anterior (flexor) compartment of the arm?",
+        "options": [
+            "Musculocutaneous nerve",
+            "Median nerve",
+            "Ulnar nerve",
+            "Radial nerve"
+        ],
+        "correct_answer": "Musculocutaneous nerve",
+        "explanation": "The musculocutaneous nerve (from the lateral cord) pierces the coracobrachialis and innervates all three muscles of the anterior arm: coracobrachialis, biceps brachii, and brachialis."
+    },
+    {
+        "id": 12,
+        "faculty": "Dean Burkin",
+        "session": "B4: (REQUIRED) Bone Metabolism, Osteoporosis (In-Class Assignment)",
+        "question": "Teriparatide is a recombinant form of Parathyroid Hormone (PTH) used to treat severe osteoporosis. How does this drug successfully increase bone mineral density?",
+        "options": [
+            "When given intermittently, it selectively stimulates osteoblast activity",
+            "It chronically elevates blood calcium, depositing it into bones",
+            "It binds directly to RANKL to prevent osteoclast activation",
+            "It selectively inhibits the action of sclerostin"
+        ],
+        "correct_answer": "When given intermittently, it selectively stimulates osteoblast activity",
+        "explanation": "While chronically high PTH (like in hyperparathyroidism) causes bone resorption, low-dose, intermittent administration of PTH analogs like teriparatide acts as an anabolic agent, strongly stimulating osteoblasts to build new bone."
+    },
+    {
+        "id": 13,
+        "faculty": "Dean Burkin",
+        "session": "B4: (REQUIRED) Bone Metabolism, Osteoporosis (In-Class Assignment)",
+        "question": "Denosumab is an antiresorptive biologic medication used for osteoporosis. What is its specific mechanism of action?",
+        "options": [
+            "It is a monoclonal antibody that binds and inhibits RANKL",
+            "It incorporates into the bone matrix and poisons osteoclasts",
+            "It is a selective estrogen receptor modulator (SERM)",
+            "It mimics calcitonin to rapidly lower blood calcium"
+        ],
+        "correct_answer": "It is a monoclonal antibody that binds and inhibits RANKL",
+        "explanation": "Denosumab targets RANKL (Receptor Activator of Nuclear factor Kappa-B Ligand). By blocking RANKL, it prevents the maturation, function, and survival of osteoclasts, severely decreasing bone resorption."
+    },
+    {
+        "id": 14,
+        "faculty": "Dean Burkin",
+        "session": "B4: (REQUIRED) Bone Metabolism, Osteoporosis (In-Class Assignment)",
+        "question": "Sclerostin is a regulatory protein secreted primarily by osteocytes. What is the normal physiological function of sclerostin?",
+        "options": [
+            "It inhibits bone formation by blocking osteoblast activity",
+            "It stimulates osteoclasts to increase bone resorption",
+            "It increases calcium absorption in the intestines",
+            "It promotes the differentiation of mesenchymal stem cells into chondrocytes"
+        ],
+        "correct_answer": "It inhibits bone formation by blocking osteoblast activity",
+        "explanation": "Sclerostin acts as a natural brake on bone formation by inhibiting the Wnt signaling pathway in osteoblasts. The new osteoporosis drug Romosozumab is an antibody that blocks sclerostin, thus removing this brake and promoting bone growth."
+    },
+    {
+        "id": 15,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Development Of The Musculoskeletal System",
+        "question": "During limb development, the Zone of Polarizing Activity (ZPA) secretes Sonic Hedgehog (Shh). This signaling center is primarily responsible for patterning the limb in which axis?",
+        "options": [
+            "Anterior-posterior (thumb to pinky) axis",
+            "Proximal-distal (shoulder to finger) axis",
+            "Dorsal-ventral (back of hand to palm) axis",
+            "Cranial-caudal axis"
+        ],
+        "correct_answer": "Anterior-posterior (thumb to pinky) axis",
+        "explanation": "The ZPA dictates the anterior-posterior (preaxial-postaxial) axis. High concentrations of Shh specify the pinky, while low concentrations specify the thumb. The Apical Ectodermal Ridge (AER) controls proximal-distal outgrowth."
+    },
+    {
+        "id": 16,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Development Of The Musculoskeletal System",
+        "question": "The myotome of a developing somite splits into an epaxial and a hypaxial division. The muscles derived from the epaxial division (the true back muscles) are innervated by:",
+        "options": [
+            "Dorsal primary rami of spinal nerves",
+            "Ventral primary rami of spinal nerves",
+            "Sympathetic trunk ganglia",
+            "Cranial nerves"
+        ],
+        "correct_answer": "Dorsal primary rami of spinal nerves",
+        "explanation": "Epaxial myoblasts migrate dorsally to form the deep intrinsic muscles of the back (e.g., erector spinae) and are innervated exclusively by the dorsal primary rami. Hypaxial myoblasts form body wall and limb muscles, innervated by ventral primary rami."
+    },
+    {
+        "id": 17,
+        "faculty": "Lisa Calvo; Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Margery Diamond",
+        "question": "A 75-year-old female undergoes a DEXA scan to evaluate bone mineral density. Which of the following T-scores firmly establishes a diagnosis of osteoporosis?",
+        "options": [
+            "-2.8",
+            "-1.5",
+            "-0.5",
+            "+1.2"
+        ],
+        "correct_answer": "-2.8",
+        "explanation": "A T-score of -2.5 or lower indicates osteoporosis. A score between -1.0 and -2.5 indicates osteopenia (low bone mass). Normal is -1.0 or higher."
+    },
+    {
+        "id": 18,
+        "faculty": "Lisa Calvo; Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Margery Diamond",
+        "question": "A patient is prescribed an oral bisphosphonate (e.g., alendronate) for osteoporosis. Which critical instruction must you give the patient to prevent a common and severe side effect?",
+        "options": [
+            "Take with a full glass of water and remain upright for at least 30 minutes",
+            "Take immediately before going to bed",
+            "Take with a calcium-rich meal to enhance absorption",
+            "Crush or chew the tablet to reduce gastric upset"
+        ],
+        "correct_answer": "Take with a full glass of water and remain upright for at least 30 minutes",
+        "explanation": "Oral bisphosphonates are notoriously irritating to the esophageal mucosa and can cause severe erosive esophagitis. Patients must take them on an empty stomach with plain water and remain fully upright for 30-60 minutes."
+    },
+    {
+        "id": 19,
+        "faculty": "Lisa Calvo; Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Margery Diamond",
+        "question": "The sharp decline in estrogen during menopause leads to rapid bone loss primarily because estrogen normally functions to:",
+        "options": [
+            "Promote osteoclast apoptosis and inhibit osteoclastogenesis",
+            "Directly increase calcium absorption in the gut",
+            "Stimulate the release of parathyroid hormone",
+            "Inhibit the conversion of Vitamin D to its active form"
+        ],
+        "correct_answer": "Promote osteoclast apoptosis and inhibit osteoclastogenesis",
+        "explanation": "Estrogen protects bone by inhibiting the production of RANKL (which prevents osteoclast formation) and by promoting the early death (apoptosis) of active osteoclasts. When estrogen drops, osteoclasts live longer and resorb more bone."
+    },
+    {
+        "id": 20,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Cohort Studies",
+        "question": "Which of the following descriptions best defines the fundamental design of a prospective Cohort Study?",
+        "options": [
+            "Identifying a group based on their exposure status and following them forward to observe disease outcomes",
+            "Identifying a group based on disease status and looking backward for exposures",
+            "Randomly assigning an intervention to one group and a placebo to another",
+            "Surveying a population at a single point in time for both exposure and disease"
+        ],
+        "correct_answer": "Identifying a group based on their exposure status and following them forward to observe disease outcomes",
+        "explanation": "In a cohort study, researchers group participants by whether they have been exposed to a risk factor (e.g., smokers vs. nonsmokers) and then track them forward in time to see who develops the disease (e.g., lung cancer)."
+    },
+    {
+        "id": 21,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Cohort Studies",
+        "question": "Because a cohort study follows populations forward in time, it can directly measure disease incidence. Therefore, the primary measure of association calculated is the:",
+        "options": [
+            "Relative Risk (RR)",
+            "Odds Ratio (OR)",
+            "Number Needed to Treat (NNT)",
+            "P-value"
+        ],
+        "correct_answer": "Relative Risk (RR)",
+        "explanation": "Cohort studies measure true incidence (new cases over time), allowing the direct calculation of Risk. The Relative Risk (Risk Ratio) compares the incidence in the exposed group to the incidence in the unexposed group."
+    },
+    {
+        "id": 22,
+        "faculty": "Michael Lewandowski",
+        "session": "B4: (REQUIRED) Pain Management & HB Neurosurgery",
+        "question": "A patient suffering from neuropathic pain reports severe, burning pain when a soft cotton swab is lightly brushed against their skin. This phenomenon is defined as:",
+        "options": [
+            "Allodynia",
+            "Primary hyperalgesia",
+            "Secondary hyperalgesia",
+            "Hypoesthesia"
+        ],
+        "correct_answer": "Allodynia",
+        "explanation": "Allodynia is the perception of pain from a stimulus that is normally non-painful (like a light touch or a gentle breeze). Hyperalgesia is an exaggerated pain response to a stimulus that IS normally painful (like a pinprick)."
+    },
+    {
+        "id": 23,
+        "faculty": "Michael Lewandowski",
+        "session": "B4: (REQUIRED) Pain Management & HB Neurosurgery",
+        "question": "When you accidentally touch a hot stove, you immediately feel a sharp, well-localized pain, followed a moment later by a dull, throbbing ache. Which nerve fibers are responsible for transmitting the initial sharp pain?",
+        "options": [
+            "A-delta fibers",
+            "C fibers",
+            "A-beta fibers",
+            "A-alpha fibers"
+        ],
+        "correct_answer": "A-delta fibers",
+        "explanation": "A-delta fibers are thinly myelinated and conduct signals quickly, responsible for 'first pain' (sharp, immediate, well-localized). C fibers are unmyelinated and conduct slowly, responsible for 'second pain' (dull, aching, poorly localized)."
+    },
+    {
+        "id": 24,
+        "faculty": "Michael Lewandowski",
+        "session": "B4: (REQUIRED) Pain Management & HB Neurosurgery",
+        "question": "According to the Gate Control Theory of Pain, rubbing a bumped knee reduces the sensation of pain because:",
+        "options": [
+            "Activation of large A-beta mechanoreceptors inhibits nociceptive transmission in the dorsal horn",
+            "Friction rapidly depletes substance P from the peripheral nerve endings",
+            "Heat from rubbing directly blocks C fiber conduction",
+            "Rubbing causes immediate vasodilation, removing inflammatory mediators"
+        ],
+        "correct_answer": "Activation of large A-beta mechanoreceptors inhibits nociceptive transmission in the dorsal horn",
+        "explanation": "The Gate Control Theory states that non-painful sensory input (rubbing/A-beta fibers) activates inhibitory interneurons in the spinal cord, effectively 'closing the gate' to pain signals arriving via C fibers."
+    },
+    {
+        "id": 25,
+        "faculty": "Michael Lewandowski",
+        "session": "B4: (REQUIRED) Pain Management & HB Neurosurgery",
+        "question": "Following a severe tissue injury, the uninjured skin surrounding the wound becomes highly sensitive to pain. This 'secondary hyperalgesia' is primarily driven by:",
+        "options": [
+            "Central sensitization within the spinal cord",
+            "The release of histamine directly at the injury site",
+            "Peripheral nerve demyelination",
+            "Spontaneous firing of sympathetic efferents"
+        ],
+        "correct_answer": "Central sensitization within the spinal cord",
+        "explanation": "While primary hyperalgesia (at the exact site) is caused by peripheral inflammatory soup, secondary hyperalgesia (in the healthy surrounding tissue) is due to central sensitization—increased excitability of neurons in the dorsal horn of the spinal cord."
+    },
+    {
+        "id": 26,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Brent White",
+        "question": "A 19-year-old presents with severe, diffuse muscle pain and dark brown urine after a weekend of extreme exertion and stimulant use. Which laboratory finding is the hallmark for diagnosing rhabdomyolysis?",
+        "options": [
+            "Severely elevated Creatine Kinase (CK)",
+            "Elevated Troponin I",
+            "Decreased serum potassium",
+            "Metabolic alkalosis"
+        ],
+        "correct_answer": "Severely elevated Creatine Kinase (CK)",
+        "explanation": "Rhabdomyolysis is the massive breakdown of skeletal muscle. The most reliable and sensitive marker is a profound elevation in serum Creatine Kinase (CK), often in the tens of thousands."
+    },
+    {
+        "id": 27,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Brent White",
+        "question": "In the acute phase of severe rhabdomyolysis, rapid cell lysis dumps intracellular contents into the bloodstream. Which of the following is the most immediate, life-threatening complication of this process?",
+        "options": [
+            "Hyperkalemia leading to cardiac arrhythmias",
+            "Hypocalcemia leading to tetany",
+            "Hypouricemia leading to seizures",
+            "Hypernatremia leading to cerebral edema"
+        ],
+        "correct_answer": "Hyperkalemia leading to cardiac arrhythmias",
+        "explanation": "Muscle cells contain massive amounts of potassium. When they rupture, the potassium floods the blood (hyperkalemia), which can rapidly cause lethal cardiac arrhythmias (like ventricular fibrillation) before the kidneys even have time to fail."
+    },
+    {
+        "id": 28,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Brent White",
+        "question": "A patient with rhabdomyolysis develops acute kidney injury due to myoglobin precipitating in the renal tubules. The cornerstone of early treatment to prevent this complication is:",
+        "options": [
+            "Aggressive intravenous fluid hydration",
+            "Immediate hemodialysis",
+            "High-dose corticosteroids",
+            "Nonsteroidal anti-inflammatory drugs (NSAIDs)"
+        ],
+        "correct_answer": "Aggressive intravenous fluid hydration",
+        "explanation": "The primary treatment for rhabdomyolysis is massive and rapid IV fluid resuscitation. This flushes the kidneys, maintains high urine flow, dilutes the toxic myoglobin, and prevents the formation of obstructive casts in the renal tubules."
+    },
+	{
+        "id": 29,
+        "faculty": "Thomas Gould",
+        "session": "B4: Histo-Skin",
+        "question": "Which layer of the epidermis is primarily responsible for the continuous renewal of skin cells and contains melanocytes and Merkel cells?",
+        "options": [
+            "Stratum corneum",
+            "Stratum lucidum",
+            "Stratum granulosum",
+            "Stratum spinosum",
+            "Stratum basale"
+        ],
+        "correct_answer": "Stratum basale",
+        "explanation": "The stratum basale (basal layer) is the deepest layer of the epidermis. It contains the mitotically active stem cells that constantly regenerate the epidermis, as well as melanocytes (pigment) and Merkel cells (touch receptors)."
+    },
+    {
+        "id": 30,
+        "faculty": "Thomas Gould",
+        "session": "B4: Histo-Skin",
+        "question": "Sebaceous glands secrete an oily substance (sebum) that coats the hair and skin. By which mode of secretion do these glands release their contents?",
+        "options": [
+            "Merocrine (exocytosis of vesicles)",
+            "Apocrine (pinching off of apical cytoplasm)",
+            "Holocrine (complete cell destruction)",
+            "Endocrine (diffusion into the bloodstream)"
+        ],
+        "correct_answer": "Holocrine (complete cell destruction)",
+        "explanation": "Sebaceous glands use holocrine secretion, meaning the entire cell fills with secretory products (sebum) and then ruptures and dies to release its contents into the hair follicle."
+    },
+    {
+        "id": 31,
+        "faculty": "Thomas Gould",
+        "session": "B4: Histo-Skin",
+        "question": "Which of the following sensory receptors is located specifically in the dermal papillae and is specialized for detecting light touch and low-frequency vibration?",
+        "options": [
+            "Pacinian corpuscle",
+            "Meissner's corpuscle",
+            "Ruffini ending",
+            "Merkel disc",
+            "Free nerve ending"
+        ],
+        "correct_answer": "Meissner's corpuscle",
+        "explanation": "Meissner's corpuscles are encapsulated nerve endings found high up in the dermal papillae (especially in the fingertips and lips) that are highly sensitive to light touch. Pacinian corpuscles are found deeper in the dermis/hypodermis and detect deep pressure."
+    },
+    {
+        "id": 32,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Cell And Tissue Injury",
+        "question": "A 38-year-old man undergoes a wedge resection of a lung nodule, which reveals caseous necrosis and focal calcifications. The deposition of calcium in these previously necrotic areas, despite normal serum calcium levels, is known as:",
+        "options": [
+            "Metastatic calcification",
+            "Dystrophic calcification",
+            "Apoptotic body formation",
+            "Hyperplastic ossification"
+        ],
+        "correct_answer": "Dystrophic calcification",
+        "explanation": "Dystrophic calcification occurs when calcium deposits locally into dead, dying, or damaged tissues despite normal blood calcium levels. Metastatic calcification occurs in normal, healthy tissues due to systemic hypercalcemia."
+    },
+    {
+        "id": 33,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Cell And Tissue Injury",
+        "question": "Which cellular adaptation is characterized by an increase in the size of individual cells (and consequently the organ), typically seen in the heart in response to chronic hemodynamic overload?",
+        "options": [
+            "Hyperplasia",
+            "Metaplasia",
+            "Atrophy",
+            "Hypertrophy",
+            "Dysplasia"
+        ],
+        "correct_answer": "Hypertrophy",
+        "explanation": "Hypertrophy is an increase in cell size. Because adult cardiac muscle cells (myocytes) cannot divide, the heart adapts to increased workload (like high blood pressure) exclusively through hypertrophy, not hyperplasia (increase in cell number)."
+    },
+    {
+        "id": 34,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Pathology Inflammatory Process",
+        "question": "During acute inflammation, which family of adhesion molecules on the endothelial surface interacts with Sialyl-Lewis X on leukocytes to mediate the initial 'rolling' phase of leukocyte recruitment?",
+        "options": [
+            "Integrins",
+            "Selectins",
+            "Cadherins",
+            "Immunoglobulins"
+        ],
+        "correct_answer": "Selectins",
+        "explanation": "Selectins (E-selectin and P-selectin) mediate the weak, transient binding that causes leukocytes to 'roll' along the endothelium. Integrins mediate the subsequent firm adhesion that stops the leukocyte before it squeezes through the vessel wall."
+    },
+    {
+        "id": 35,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Pathology Inflammatory Process",
+        "question": "Which of the following chemical mediators is a potent vasodilator and inhibitor of platelet aggregation that acts strictly locally due to an in vivo half-life of only a few seconds?",
+        "options": [
+            "Histamine",
+            "Bradykinin",
+            "Nitric oxide",
+            "Leukotriene B4",
+            "Thromboxane A2"
+        ],
+        "correct_answer": "Nitric oxide",
+        "explanation": "Nitric Oxide (NO) is a short-lived gas produced by endothelial cells and macrophages. It causes smooth muscle relaxation (vasodilation) and reduces platelet aggregation, acting only on immediately adjacent cells."
+    },
+    {
+        "id": 36,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Pathology Inflammatory Process",
+        "question": "What is the primary role of opsonins (such as IgG antibodies and complement protein C3b) in the acute inflammatory response?",
+        "options": [
+            "They induce vasodilation and increased vascular permeability",
+            "They act as chemoattractants to guide neutrophils to the site of injury",
+            "They coat microbes to greatly enhance their recognition and phagocytosis",
+            "They form the structural cross-links in a fibrin clot"
+        ],
+        "correct_answer": "They coat microbes to greatly enhance their recognition and phagocytosis",
+        "explanation": "Opsonization is the process of tagging a pathogen for destruction. Opsonins like IgG and C3b coat the surface of a microbe, allowing phagocytes (which have receptors for these opsonins) to easily bind and engulf the pathogen."
+    },
+    {
+        "id": 37,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Basic Wound Repair And Skin Healing",
+        "question": "Which of the following processes is a hallmark of healing by secondary intention (compared to primary intention) in a large, open wound?",
+        "options": [
+            "Minimal to no granulation tissue formation",
+            "Significant wound contraction mediated by myofibroblasts",
+            "Complete regeneration of the original tissue architecture",
+            "Immediate re-epithelialization within 24 hours"
+        ],
+        "correct_answer": "Significant wound contraction mediated by myofibroblasts",
+        "explanation": "Healing by secondary intention occurs in large wounds with separated edges. It involves the formation of abundant granulation tissue and significant wound contraction, driven by specialized myofibroblasts, to physically pull the wound edges together."
+    },
+    {
+        "id": 38,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Basic Wound Repair And Skin Healing",
+        "question": "During the proliferative phase of tissue repair, angiogenesis is critical for supplying nutrients to the healing wound. Which growth factor is the most potent stimulator of this new blood vessel formation?",
+        "options": [
+            "Vascular Endothelial Growth Factor (VEGF)",
+            "Transforming Growth Factor Beta (TGF-b)",
+            "Epidermal Growth Factor (EGF)",
+            "Tumor Necrosis Factor Alpha (TNF-a)"
+        ],
+        "correct_answer": "Vascular Endothelial Growth Factor (VEGF)",
+        "explanation": "VEGF is the primary growth factor responsible for angiogenesis. It stimulates the proliferation and migration of endothelial cells to form new capillary sprouts from existing blood vessels."
+    },
+    {
+        "id": 39,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Basic Wound Repair And Skin Healing",
+        "question": "In the final remodeling phase of scar formation, the extracellular matrix is modified to increase wound strength. Which family of zinc-dependent enzymes is primarily responsible for the degradation of collagen to allow for this restructuring?",
+        "options": [
+            "Cyclooxygenases",
+            "Matrix metalloproteinases (MMPs)",
+            "Lipoxygenases",
+            "Caspases",
+            "Acid hydrolases"
+        ],
+        "correct_answer": "Matrix metalloproteinases (MMPs)",
+        "explanation": "Matrix metalloproteinases (MMPs) degrade extracellular matrix proteins like collagen. They are essential during the remodeling phase to clear out weak, disorganized collagen so it can be replaced by stronger, more organized collagen fibers."
+    },
+    {
+        "id": 40,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lecture 3 - Anterior And Posterior Forearm And Posterior Hand",
+        "question": "A patient presents with an inability to extend their wrist and fingers, a condition commonly known as 'wrist drop.' This is indicative of damage to which of the following nerves?",
+        "options": [
+            "Median nerve",
+            "Ulnar nerve",
+            "Radial nerve",
+            "Musculocutaneous nerve"
+        ],
+        "correct_answer": "Radial nerve",
+        "explanation": "The radial nerve innervates all of the extensor muscles of the posterior arm and posterior forearm. Damage to this nerve (e.g., from a midshaft humeral fracture) paralyzes these extensors, resulting in 'wrist drop'."
+    },
+    {
+        "id": 41,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lecture 3 - Anterior And Posterior Forearm And Posterior Hand",
+        "question": "Which muscle of the anterior forearm is unique because it flexes the distal interphalangeal (DIP) joints of the digits and has a dual innervation from both the median and ulnar nerves?",
+        "options": [
+            "Flexor digitorum superficialis",
+            "Flexor digitorum profundus",
+            "Flexor pollicis longus",
+            "Flexor carpi ulnaris",
+            "Pronator teres"
+        ],
+        "correct_answer": "Flexor digitorum profundus",
+        "explanation": "The flexor digitorum profundus (FDP) is the only muscle that flexes the DIP joints. Its lateral half (digits 2 and 3) is innervated by the median nerve, while its medial half (digits 4 and 5) is innervated by the ulnar nerve."
+    },
+    {
+        "id": 42,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lecture 4 - Anterior Hand And Joints Of The Upper Limb",
+        "question": "Compression of the median nerve within the carpal tunnel primarily causes sensory deficits in the lateral 3.5 digits and motor weakness in which specific muscle group of the hand?",
+        "options": [
+            "The hypothenar eminence",
+            "The thenar eminence",
+            "The dorsal interossei",
+            "The palmar interossei"
+        ],
+        "correct_answer": "The thenar eminence",
+        "explanation": "The recurrent branch of the median nerve innervates the three muscles of the thenar eminence (thumb base). Carpal tunnel syndrome leads to weakness in thumb opposition and eventual atrophy of the thenar eminence."
+    },
+    {
+        "id": 43,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lecture 4 - Anterior Hand And Joints Of The Upper Limb",
+        "question": "The 'extensor hood' (extensor expansion) is a fibrous connective tissue structure on the dorsal aspect of the digits. Which intrinsic muscles of the hand insert into this hood to flex the metacarpophalangeal (MP) joints while simultaneously extending the interphalangeal (IP) joints?",
+        "options": [
+            "The lumbricals and interossei",
+            "The flexor digitorum profundus and superficialis",
+            "The thenar and hypothenar muscles",
+            "The extensor carpi radialis longus and brevis"
+        ],
+        "correct_answer": "The lumbricals and interossei",
+        "explanation": "The lumbricals and interossei muscles originate on the palmar side but insert onto the dorsal extensor hood. This unique attachment allows them to flex the MP joints and extend the PIP and DIP joints simultaneously (the 'bye-bye' or 'table-top' position)."
+    },
+    {
+        "id": 44,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lecture 4 - Anterior Hand And Joints Of The Upper Limb",
+        "question": "Which carpal bone is located in the proximal row, articulates directly with the radius, and is the most commonly fractured carpal bone (often leading to avascular necrosis due to its retrograde blood supply)?",
+        "options": [
+            "Lunate",
+            "Triquetrum",
+            "Scaphoid",
+            "Capitate",
+            "Hamate"
+        ],
+        "correct_answer": "Scaphoid",
+        "explanation": "The scaphoid sits in the anatomical snuffbox and is the most frequently fractured carpal bone, usually from a fall on an outstretched hand (FOOSH). Because its blood supply enters distally and runs backwards (retrograde), fractures often disrupt blood flow to the proximal segment, causing avascular necrosis."
+    },
+    {
+        "id": 45,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Randomized Controlled Trials Part 1",
+        "question": "What is the primary methodological advantage of using randomization to assign patients to treatment and control groups in a clinical trial?",
+        "options": [
+            "It ensures that the patients are blinded to their treatment assignment",
+            "It guarantees that the study results will be statistically significant",
+            "It evenly distributes both known and unknown confounding variables between the groups",
+            "It eliminates the need for obtaining informed consent"
+        ],
+        "correct_answer": "It evenly distributes both known and unknown confounding variables between the groups",
+        "explanation": "The massive advantage of an RCT over observational studies is that true randomization naturally balances all confounding variables (both the ones the researchers measured and the ones they didn't even know existed) equally between the treatment and control groups."
+    },
+    {
+        "id": 46,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Randomized Controlled Trials Part 1",
+        "question": "In a randomized controlled trial, 'Table 1' of the published manuscript typically compares the baseline characteristics (e.g., age, sex, comorbidities) of the treatment and control groups. What is the primary purpose of this table?",
+        "options": [
+            "To demonstrate that the randomization process successfully created comparable groups",
+            "To show the final treatment outcomes and side effects",
+            "To outline the specific inclusion and exclusion criteria for the study",
+            "To calculate the number needed to treat (NNT)"
+        ],
+        "correct_answer": "To demonstrate that the randomization process successfully created comparable groups",
+        "explanation": "Table 1 serves as proof that randomization worked. If the baseline characteristics are statistically similar between the two groups, any difference in the final outcome can confidently be attributed to the intervention itself, rather than baseline differences in the patients."
+    },
+    {
+        "id": 47,
+        "faculty": "Howard Chen",
+        "session": "B4: Alternative Pain Treatments",
+        "question": "According to current Western medical understanding, which of the following is a primary physiological mechanism by which acupuncture produces analgesia?",
+        "options": [
+            "It induces the release of endogenous opioids such as endorphins in the central nervous system.",
+            "It completely severs peripheral C-fibers at the site of insertion to block nociceptive transmission.",
+            "It acts as a direct competitive antagonist at mu-opioid receptors located within the brainstem.",
+            "It causes systemic vasodilation through the massive release of circulating histamine from mast cells."
+        ],
+        "correct_answer": "It induces the release of endogenous opioids such as endorphins in the central nervous system.",
+        "explanation": "While traditional Chinese medicine describes acupuncture in terms of 'Qi' and meridians, Western research has demonstrated that inserting needles at specific acupoints stimulates the nervous system to release endogenous opioids (like endorphins and enkephalins) and other neurotransmitters, which modulate pain pathways."
+    },
+    {
+        "id": 48,
+        "faculty": "Howard Chen",
+        "session": "B4: Alternative Pain Treatments",
+        "question": "Based on systematic reviews and Cochrane database analyses, acupuncture is widely recognized as an effective evidence-based adjunct treatment for which of the following?",
+        "options": [
+            "Prevention of episodic migraines and tension-type headaches.",
+            "Complete reversal of rheumatoid arthritis joint deformities.",
+            "Acute management of severe systemic bacterial meningitis.",
+            "Primary treatment of deep vein thrombosis in the lower legs."
+        ],
+        "correct_answer": "Prevention of episodic migraines and tension-type headaches.",
+        "explanation": "Extensive clinical research, including Cochrane reviews, supports the efficacy of acupuncture in the prevention of tension-type headaches and episodic migraines. It is also well-supported for conditions like chronic back pain, osteoarthritis, and chemotherapy-induced nausea."
+    },
+    {
+        "id": 49,
+        "faculty": "Howard Chen",
+        "session": "B4: Alternative Pain Treatments",
+        "question": "When performed by a qualified medical practitioner, acupuncture is generally considered very safe. Which of the following represents the most commonly reported minor adverse event?",
+        "options": [
+            "Localized pain or minor bruising at the needle insertion site.",
+            "Severe systemic anaphylaxis to the stainless steel needles.",
+            "Iatrogenic pneumothorax requiring urgent chest tube placement.",
+            "Widespread bacterial cellulitis and subsequent septicemia."
+        ],
+        "correct_answer": "Localized pain or minor bruising at the needle insertion site.",
+        "explanation": "Acupuncture has a very high safety profile when performed correctly. The most common side effects are minor and self-limiting, such as slight pain, minor bleeding, or bruising at the insertion sites. Severe complications like pneumothorax or infection are extremely rare when sterile techniques are used."
+    },
+    {
+        "id": 50,
+        "faculty": "Cherie Singer",
+        "session": "B4: Pain Receptors and NSAID Pharmacology",
+        "question": "A patient taking high-dose naproxen for chronic osteoarthritis develops a bleeding gastric ulcer. This complication is primarily due to the inhibition of which specific enzyme?",
+        "options": [
+            "Inhibition of COX-1, leading to decreased synthesis of protective gastric prostaglandins.",
+            "Inhibition of COX-2, leading to increased synthesis of protective thromboxane A2.",
+            "Inhibition of 5-lipoxygenase, leading to decreased synthesis of protective leukotrienes.",
+            "Inhibition of phospholipase A2, leading to increased synthesis of free arachidonic acid."
+        ],
+        "correct_answer": "Inhibition of COX-1, leading to decreased synthesis of protective gastric prostaglandins.",
+        "explanation": "Traditional NSAIDs like naproxen non-selectively inhibit both COX-1 and COX-2. COX-1 is constitutively expressed and is responsible for producing prostaglandins (PGE2) that protect the gastric mucosa. Inhibiting COX-1 removes this protection, leading to ulcers and bleeding."
+    },
+    {
+        "id": 51,
+        "faculty": "Cherie Singer",
+        "session": "B4: Pain Receptors and NSAID Pharmacology",
+        "question": "A 55-year-old male presents with acute, severe pain and swelling in his first metatarsophalangeal joint. Which of the following drugs specifically inhibits neutrophil chemotaxis to treat this acute gout flare?",
+        "options": [
+            "Colchicine, which binds to tubulin and prevents proper microtubule polymerization.",
+            "Allopurinol, which directly inhibits the enzyme xanthine oxidase in the liver.",
+            "Probenecid, which blocks the renal tubular reabsorption of circulating uric acid.",
+            "Indomethacin, which irreversibly inhibits the cyclooxygenase enzyme in tissues."
+        ],
+        "correct_answer": "Colchicine, which binds to tubulin and prevents proper microtubule polymerization.",
+        "explanation": "Colchicine is used for acute gout attacks. It binds to tubulin, disrupting microtubule formation in leukocytes. This prevents neutrophils from migrating into the inflamed joint and phagocytosing the uric acid crystals."
+    },
+    {
+        "id": 52,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Steven Burns",
+        "question": "A 14-year-old male sustains thermal injuries in a campfire accident. Examination of his right arm reveals blistered, weeping, and extremely painful skin that blanches with pressure. How is this burn classified?",
+        "options": [
+            "Superficial partial-thickness burn, affecting the epidermis and upper dermis.",
+            "Superficial (first-degree) burn, affecting only the outermost epidermal layer.",
+            "Deep partial-thickness burn, affecting the epidermis and most of the deep dermis.",
+            "Full-thickness (third-degree) burn, destroying all epidermal and dermal layers."
+        ],
+        "correct_answer": "Superficial partial-thickness burn, affecting the epidermis and upper dermis.",
+        "explanation": "Superficial partial-thickness burns (classic second-degree) involve the epidermis and the superficial (papillary) dermis. They are characterized by intact blisters, weeping tissue, brisk capillary refill (blanching), and extreme pain due to exposed nerve endings."
+    },
+    {
+        "id": 53,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Steven Burns",
+        "question": "According to the 'Rule of Nines' for an adult or older adolescent, what is the estimated total body surface area (TBSA) burned if the patient sustains burns covering the entire anterior trunk and the entire right arm?",
+        "options": [
+            "27% Total Body Surface Area",
+            "18% Total Body Surface Area",
+            "36% Total Body Surface Area",
+            "45% Total Body Surface Area"
+        ],
+        "correct_answer": "27% Total Body Surface Area",
+        "explanation": "The Rule of Nines assigns 18% to the entire anterior trunk (chest and abdomen combined) and 9% to an entire arm (anterior and posterior). 18% + 9% = 27% TBSA."
+    },
+    {
+        "id": 54,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Steven Burns",
+        "question": "In the immediate stabilization of a severe burn patient presenting with facial burns, singed nasal hair, and carbonaceous sputum, what is the most critical first step in management?",
+        "options": [
+            "Early endotracheal intubation to secure a potentially compromised airway.",
+            "Immediate initiation of aggressive intravenous isotonic fluid resuscitation.",
+            "Rapid application of topical antimicrobial agents to prevent wound infection.",
+            "Urgent administration of high-dose systemic intravenous corticosteroids."
+        ],
+        "correct_answer": "Early endotracheal intubation to secure a potentially compromised airway.",
+        "explanation": "Facial burns, singed nasal hairs, and soot in the sputum are classic signs of inhalation injury. The airway can rapidly swell and close off completely. Securing the airway with early intubation is the absolute highest priority (the 'A' in ABCs) before swelling makes it impossible."
+    }
+]

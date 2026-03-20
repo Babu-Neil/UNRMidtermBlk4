@@ -1,0 +1,758 @@
+[
+    {
+        "id": 1,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Back muscles, vertebral column, spinal cord, and nerve roots",
+        "question": "A lumbar puncture is typically performed between the L3 and L4 vertebrae. Which dense, elastic structure forms the posterior boundary of the vertebral canal that the needle must pierce just before entering the epidural space?",
+        "options": [
+            "Anterior longitudinal ligament",
+            "Posterior longitudinal ligament",
+            "Ligamentum flavum",
+            "Interspinous ligament"
+        ],
+        "correct_answer": "Ligamentum flavum",
+        "explanation": "The ligamentum flavum connects the laminae of adjacent vertebrae, forming the posterior wall of the spinal canal. The needle passes through the supraspinous and interspinous ligaments, then 'pops' through the ligamentum flavum to reach the epidural space."
+    },
+    {
+        "id": 2,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Back muscles, vertebral column, spinal cord, and nerve roots",
+        "question": "In the cervical spine, spinal nerves exit above their correspondingly numbered vertebrae. Therefore, the C5 spinal nerve exits the intervertebral foramen between which two vertebrae?",
+        "options": [
+            "C3 and C4",
+            "C4 and C5",
+            "C5 and C6",
+            "C6 and C7"
+        ],
+        "correct_answer": "C4 and C5",
+        "explanation": "Because there are 8 cervical spinal nerves but only 7 cervical vertebrae, nerves C1-C7 exit ABOVE their respective vertebrae (e.g., C5 nerve exits between C4 and C5). The C8 nerve exits between C7 and T1. Below T1, all nerves exit BELOW their corresponding vertebrae."
+    },
+    {
+        "id": 3,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Back muscles, vertebral column, spinal cord, and nerve roots",
+        "question": "Which specific ligament of the craniovertebral joints connects the dens (odontoid process) of the axis to the lateral margins of the foramen magnum, primarily functioning to limit excessive rotation of the head?",
+        "options": [
+            "Cruciate ligament",
+            "Alar ligament",
+            "Tectorial membrane",
+            "Apical ligament"
+        ],
+        "correct_answer": "Alar ligament",
+        "explanation": "The alar ligaments (often called the 'check ligaments') attach the dens to the occipital condyles and prevent excessive rotation at the atlanto-axial joint."
+    },
+    {
+        "id": 4,
+        "faculty": "Gregory Highison",
+        "session": "B4: Histo - Bone And Cartilage",
+        "question": "During bone resorption, actively resorbing osteoclasts secrete acid and enzymes into a specialized extracellular compartment. The shallow depressions etched into the bone surface by these cells are known as:",
+        "options": [
+            "Volkmann's canals",
+            "Howship's lacunae",
+            "Haversian canals",
+            "Osteocytic canaliculi"
+        ],
+        "correct_answer": "Howship's lacunae",
+        "explanation": "Howship's lacunae (resorption bays) are the subosteoclastic compartments carved out by osteoclasts as they break down the underlying bone matrix. "
+    },
+    {
+        "id": 5,
+        "faculty": "Gregory Highison",
+        "session": "B4: Histo - Bone And Cartilage",
+        "question": "Osteoblasts are responsible for synthesizing osteoid, the unmineralized organic component of bone matrix. Osteoid is predominantly composed of:",
+        "options": [
+            "Type II collagen and chondroitin sulfate",
+            "Type I collagen and ground substance",
+            "Hydroxyapatite crystals",
+            "Elastic fibers and aggrecan"
+        ],
+        "correct_answer": "Type I collagen and ground substance",
+        "explanation": "Bone matrix is roughly 35% organic (osteoid) and 65% inorganic (hydroxyapatite). The organic osteoid is produced by osteoblasts and consists almost entirely of Type I collagen fibers, which provide bone with its tensile strength."
+    },
+    {
+        "id": 6,
+        "faculty": "Gregory Highison",
+        "session": "B4: Histo - Bone And Cartilage",
+        "question": "Which specific cell layer of the perichondrium is directly responsible for the appositional growth (increasing width/thickness) of developing hyaline cartilage?",
+        "options": [
+            "Outer fibrous layer",
+            "Inner cellular (chondrogenic) layer",
+            "Deep zone chondrocytes",
+            "Zone of calcification"
+        ],
+        "correct_answer": "Inner cellular (chondrogenic) layer",
+        "explanation": "The inner layer of the perichondrium contains chondroprogenitor cells that differentiate into chondroblasts. These chondroblasts lay down new matrix on the surface of the existing cartilage (appositional growth)."
+    },
+    {
+        "id": 7,
+        "faculty": "Cherie Singer",
+        "session": "B4: Pain Receptors and NSAID Pharmacology",
+        "question": "Low-dose aspirin provides long-lasting cardiovascular protection and anti-platelet effects that outlast the half-life of the drug in the plasma. This is due to its unique mechanism of:",
+        "options": [
+            "Irreversibly acetylating COX-1 in platelets, which cannot synthesize new enzymes.",
+            "Reversibly inhibiting COX-2 in the vascular endothelium.",
+            "Permanently downregulating the production of arachidonic acid.",
+            "Selectively blocking thromboxane receptors on the platelet surface."
+        ],
+        "correct_answer": "Irreversibly acetylating COX-1 in platelets, which cannot synthesize new enzymes.",
+        "explanation": "Aspirin is the only NSAID that irreversibly inhibits COX enzymes via covalent acetylation. Because platelets lack a nucleus, they cannot synthesize new COX-1 to replace it. The anti-platelet effect lasts for the entire lifespan of the platelet (7-10 days)."
+    },
+    {
+        "id": 8,
+        "faculty": "Cherie Singer",
+        "session": "B4: Pain Receptors and NSAID Pharmacology",
+        "question": "Selective COX-2 inhibitors (like Celecoxib) were designed to provide pain relief without causing gastric ulcers. However, their use is heavily restricted because severely upsetting the balance between Thromboxane A2 and Prostacyclin (PGI2) increases the risk of:",
+        "options": [
+            "Acute renal failure",
+            "Cardiovascular events (e.g., myocardial infarction)",
+            "Aplastic anemia",
+            "Fulminant hepatic necrosis"
+        ],
+        "correct_answer": "Cardiovascular events (e.g., myocardial infarction)",
+        "explanation": "COX-2 normally produces Prostacyclin (PGI2), which prevents clot formation and dilates vessels. Selectively blocking COX-2 leaves COX-1 unopposed. COX-1 produces Thromboxane A2, which strongly promotes platelet aggregation and vasoconstriction, leading to an increased risk of heart attacks and strokes. "
+    },
+    {
+        "id": 9,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Case-Control Studies",
+        "question": "In a case-control study investigating the link between a rare birth defect and maternal medication use during pregnancy, mothers of affected infants are much more likely to thoroughly remember every pill they took compared to mothers of healthy infants. This introduces which type of systematic error?",
+        "options": [
+            "Selection bias",
+            "Recall bias",
+            "Lead-time bias",
+            "Attrition bias"
+        ],
+        "correct_answer": "Recall bias",
+        "explanation": "Recall bias is a classic flaw in retrospective studies (like case-control). The presence of the disease (the outcome) alters how participants remember or report the exposure, artificially inflating the apparent association."
+    },
+    {
+        "id": 10,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Case-Control Studies",
+        "question": "To ensure the internal validity of a case-control study, the control group must be selected carefully. What is the fundamental rule for selecting appropriate controls?",
+        "options": [
+            "They must be perfectly matched in age and gender to the cases.",
+            "They must have a different disease than the cases.",
+            "They must be selected from the exact same source population that gave rise to the cases.",
+            "They must have an equal exposure rate to the cases."
+        ],
+        "correct_answer": "They must be selected from the exact same source population that gave rise to the cases.",
+        "explanation": "If a control had developed the disease, they should have been eligible to become a 'case' in the study. Selecting controls from a different population (e.g., cases from a specialized clinic, controls from a general gym) introduces massive selection bias."
+    },
+    {
+        "id": 11,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lec 2 - Upper Limb Shoulder, Arm, And Brachial Plexus",
+        "question": "A patient suffers a severe blow to the shoulder that forces the head away from the neck, tearing the upper trunk of the brachial plexus (C5-C6 roots). This injury (Erb-Duchenne palsy) classicially forces the upper limb into which posture?",
+        "options": [
+            "Claw hand (hyperextended MP joints and flexed IP joints)",
+            "Wrist drop (flexed wrist and inability to extend fingers)",
+            "Ape hand (flattened thenar eminence and inability to oppose thumb)",
+            "Waiter's tip (adducted shoulder, medially rotated arm, extended elbow)"
+        ],
+        "correct_answer": "Waiter's tip (adducted shoulder, medially rotated arm, extended elbow)",
+        "explanation": "Upper trunk injury (Erb's palsy) paralyzes the abductors (deltoid/supraspinatus), lateral rotators (infraspinatus), and flexors (biceps) of the arm. The unopposed antagonists pull the limb into adduction, medial rotation, and extension. "
+    },
+    {
+        "id": 12,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lec 2 - Upper Limb Shoulder, Arm, And Brachial Plexus",
+        "question": "Which muscle of the rotator cuff is structurally unique because it attaches to the lesser tubercle of the humerus and serves as the primary medial (internal) rotator of the glenohumeral joint?",
+        "options": [
+            "Supraspinatus",
+            "Infraspinatus",
+            "Teres minor",
+            "Subscapularis"
+        ],
+        "correct_answer": "Subscapularis",
+        "explanation": "The subscapularis lies on the anterior surface of the scapula and attaches to the lesser tubercle, making it the only rotator cuff muscle that medially rotates the arm. The others attach to the greater tubercle and perform abduction or lateral rotation."
+    },
+    {
+        "id": 13,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lec 2 - Upper Limb Shoulder, Arm, And Brachial Plexus",
+        "question": "The cubital fossa is a triangular depression anterior to the elbow joint. From lateral to medial, what is the correct order of the major structures passing through it?",
+        "options": [
+            "Biceps tendon, Brachial artery, Median nerve",
+            "Median nerve, Brachial artery, Biceps tendon",
+            "Radial nerve, Brachial artery, Ulnar nerve",
+            "Brachial artery, Biceps tendon, Radial nerve"
+        ],
+        "correct_answer": "Biceps tendon, Brachial artery, Median nerve",
+        "explanation": "The mnemonic for the contents of the cubital fossa from lateral to medial is TAN: Biceps Tendon, Brachial Artery, Median Nerve. (The radial nerve is lateral but is considered deep/outside the main compartment by some texts). "
+    },
+    {
+        "id": 14,
+        "faculty": "Dean Burkin",
+        "session": "B4: (REQUIRED) Bone Metabolism, Osteoporosis (In-Class Assignment)",
+        "question": "The chief cells of the parathyroid gland secrete PTH in response to hypocalcemia. By which specific molecular mechanism do these cells detect falling extracellular calcium levels?",
+        "options": [
+            "Intracellular vitamin D receptors acting as transcription factors",
+            "Voltage-gated calcium channels triggering action potentials",
+            "A G-protein coupled Calcium-Sensing Receptor (CaSR) on the cell membrane",
+            "Mechanoreceptors sensitive to bone matrix strain"
+        ],
+        "correct_answer": "A G-protein coupled Calcium-Sensing Receptor (CaSR) on the cell membrane",
+        "explanation": "The Calcium-Sensing Receptor (CaSR) is a G-protein coupled receptor on the parathyroid chief cells. High calcium binds the receptor and *inhibits* PTH release. When calcium falls, the receptor is unbound, the inhibition is lifted, and PTH is secreted."
+    },
+    {
+        "id": 15,
+        "faculty": "Dean Burkin",
+        "session": "B4: (REQUIRED) Bone Metabolism, Osteoporosis (In-Class Assignment)",
+        "question": "Vitamin D requires two sequential hydroxylations in the body to become fully active (1,25-dihydroxycholecalciferol). Where does the final, rate-limiting hydroxylation step occur, and what hormone stimulates it?",
+        "options": [
+            "In the liver; stimulated by Calcitonin",
+            "In the kidney; stimulated by Parathyroid Hormone (PTH)",
+            "In the skin; stimulated by Ultraviolet (UV) light",
+            "In the intestine; stimulated by dietary calcium"
+        ],
+        "correct_answer": "In the kidney; stimulated by Parathyroid Hormone (PTH)",
+        "explanation": "Vitamin D is first hydroxylated in the liver to 25-OH Vitamin D. The final, active form is created by the enzyme 1-alpha-hydroxylase in the proximal tubule of the kidney. PTH strongly upregulates the activity of this enzyme."
+    },
+    {
+        "id": 16,
+        "faculty": "Dean Burkin",
+        "session": "B4: (REQUIRED) Bone Metabolism, Osteoporosis (In-Class Assignment)",
+        "question": "Calcitonin is a hormone released by the parafollicular (C) cells of the thyroid gland in response to hypercalcemia. Its primary physiological mechanism to lower blood calcium is to:",
+        "options": [
+            "Inhibit intestinal calcium absorption.",
+            "Promote calcium precipitation into soft tissues.",
+            "Directly bind to and inhibit the resorptive activity of osteoclasts.",
+            "Inhibit the reabsorption of calcium in the distal kidney tubule."
+        ],
+        "correct_answer": "Directly bind to and inhibit the resorptive activity of osteoclasts.",
+        "explanation": "Calcitonin counteracts PTH. It binds directly to calcitonin receptors on the surface of osteoclasts, causing them to rapidly shrink and stop resorbing bone, thereby keeping calcium locked in the skeleton."
+    },
+    {
+        "id": 17,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Development Of The Musculoskeletal System",
+        "question": "During embryonic limb development, the Apical Ectodermal Ridge (AER) sits at the very tip of the limb bud. If the AER is experimentally removed early in development, what is the result?",
+        "options": [
+            "The limb will lack an anterior-posterior axis (no thumb vs pinky distinction).",
+            "The limb will grow normally but lack dorsal-ventral patterning.",
+            "Proximal-distal outgrowth will cease, resulting in a severely truncated or absent limb.",
+            "The limb will grow excessively long (macrodactyly)."
+        ],
+        "correct_answer": "Proximal-distal outgrowth will cease, resulting in a severely truncated or absent limb.",
+        "explanation": "The AER secretes FGFs that maintain the underlying mesenchyme in a highly proliferative state (the progress zone). Removing the AER stops proximal-distal growth, leading to limb truncation (amelia or meromelia)."
+    },
+    {
+        "id": 18,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Development Of The Musculoskeletal System",
+        "question": "During the 7th week of embryogenesis, the developing limbs undergo a massive rotation that determines the final adult anatomical position. The lower limbs undergo a 90-degree rotation in which direction?",
+        "options": [
+            "Medially, so the knees face anteriorly and the big toe is medial.",
+            "Laterally, so the knees face posteriorly and the big toe is lateral.",
+            "Medially, so the elbows point posteriorly and the thumb is lateral.",
+            "Laterally, so the flexor compartment faces dorsally."
+        ],
+        "correct_answer": "Medially, so the knees face anteriorly and the big toe is medial.",
+        "explanation": "The upper and lower limbs rotate in opposite directions. The upper limbs rotate 90 degrees laterally (elbows point back, thumbs lateral). The lower limbs rotate 90 degrees medially (knees point forward, big toe medial). "
+    },
+    {
+        "id": 19,
+        "faculty": "Lisa Calvo; Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Margery Diamond",
+        "question": "In diagnosing osteoporosis, Dual-Energy X-ray Absorptiometry (DEXA) is the gold standard. A T-score compares the patient's bone density to:",
+        "options": [
+            "A healthy, age-matched and gender-matched cohort.",
+            "A healthy, 30-year-old young adult of the same gender.",
+            "The patient's own baseline scan from 5 years prior.",
+            "A theoretical maximum bone density of pure cortical bone."
+        ],
+        "correct_answer": "A healthy, 30-year-old young adult of the same gender.",
+        "explanation": "The T-score compares the patient to a healthy, 30-year-old reference population (peak bone mass). A Z-score compares the patient to an age, sex, and ethnicity-matched population."
+    },
+    {
+        "id": 20,
+        "faculty": "Lisa Calvo; Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Margery Diamond",
+        "question": "An elderly patient with severe, untreated osteoporosis is at highest risk for developing vertebral compression fractures. In which anatomical region of the spine do these fragility fractures most frequently occur?",
+        "options": [
+            "Upper cervical region (C1-C3)",
+            "Lower cervical region (C5-C7)",
+            "Midthoracic to upper lumbar region (T8-L1)",
+            "Lower lumbar and sacral region (L4-S1)"
+        ],
+        "correct_answer": "Midthoracic to upper lumbar region (T8-L1)",
+        "explanation": "Osteoporotic compression fractures classically occur at the thoracolumbar junction (T8 to L1) due to the heavy weight-bearing load and the transition from the relatively rigid thoracic spine to the mobile lumbar spine. Multiple anterior wedge fractures here lead to classic 'Dowager's hump' kyphosis."
+    },
+    {
+        "id": 21,
+        "faculty": "Lisa Calvo; Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Margery Diamond",
+        "question": "While hormone replacement therapy (HRT) effectively prevents postmenopausal bone loss, it is no longer recommended as a first-line treatment due to findings from the Women's Health Initiative (WHI). The WHI showed that systemic estrogen/progestin therapy increased the risk of:",
+        "options": [
+            "Atypical femoral fractures and osteonecrosis of the jaw",
+            "Breast cancer, stroke, and venous thromboembolism",
+            "Endometrial atrophy and renal failure",
+            "Severe gastric ulceration and bleeding"
+        ],
+        "correct_answer": "Breast cancer, stroke, and venous thromboembolism",
+        "explanation": "The WHI trial profoundly changed medical practice when it revealed that the risks of combined HRT (increased breast cancer, heart attacks, strokes, and blood clots) outweighed the benefits of fracture prevention for most women."
+    },
+    {
+        "id": 22,
+        "faculty": "Thomas Gould",
+        "session": "B4: Histo-Skin",
+        "question": "Within the epidermis, which specialized cell acts as a resident professional antigen-presenting cell, constantly sampling the environment to alert the adaptive immune system to pathogens?",
+        "options": [
+            "Merkel cell",
+            "Langerhans cell",
+            "Melanocyte",
+            "Keratinocyte"
+        ],
+        "correct_answer": "Langerhans cell",
+        "explanation": "Langerhans cells are dendritic cells (tissue-resident macrophages) located predominantly in the stratum spinosum. They phagocytose antigens, process them, and migrate to regional lymph nodes to activate T-cells."
+    },
+    {
+        "id": 23,
+        "faculty": "Thomas Gould",
+        "session": "B4: Histo-Skin",
+        "question": "Histologically, the primary distinction between 'thick skin' (found on the palms and soles) and 'thin skin' (found everywhere else) is the prominent presence of which epidermal layer in thick skin?",
+        "options": [
+            "Stratum basale",
+            "Stratum spinosum",
+            "Stratum lucidum",
+            "Stratum granulosum"
+        ],
+        "correct_answer": "Stratum lucidum",
+        "explanation": "Thick skin has a massive stratum corneum and a distinct, clear layer of dead cells just beneath it called the stratum lucidum. Thin skin lacks a stratum lucidum. Furthermore, thick skin is completely devoid of hair follicles and sebaceous glands. "
+    },
+    {
+        "id": 24,
+        "faculty": "Thomas Gould",
+        "session": "B4: Histo-Skin",
+        "question": "The dermis is divided into two distinct layers. The superficial papillary layer forms interlocking dermal papillae with the epidermal ridges. Which type of connective tissue primarily composes this papillary layer?",
+        "options": [
+            "Dense regular connective tissue",
+            "Dense irregular connective tissue",
+            "Loose (areolar) connective tissue",
+            "Reticular connective tissue"
+        ],
+        "correct_answer": "Loose (areolar) connective tissue",
+        "explanation": "The papillary dermis consists of loose (areolar) connective tissue, which allows for diffusion of nutrients to the avascular epidermis and provides space for a rich network of capillaries and immune cells. The deeper reticular dermis is made of strong dense irregular connective tissue."
+    },
+    {
+        "id": 25,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Cell And Tissue Injury",
+        "question": "Ischemic infarction of solid organs (like the heart or kidney) typically results in coagulative necrosis, where the tissue architecture is preserved for days. Which major organ is the notable exception, instead undergoing rapid liquefactive necrosis following a hypoxic infarct?",
+        "options": [
+            "Liver",
+            "Spleen",
+            "Lungs",
+            "Brain"
+        ],
+        "correct_answer": "Brain",
+        "explanation": "Hypoxia in the central nervous system rapidly results in liquefactive necrosis. Dead tissue is digested by microglial enzymes, leaving a fluid-filled cystic cavity, because the brain lacks the dense connective tissue stroma required to maintain 'coagulative' architecture."
+    },
+    {
+        "id": 26,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Cell And Tissue Injury",
+        "question": "The intrinsic (mitochondrial) pathway of apoptosis is triggered by severe intracellular stress, such as DNA damage. The execution of this pathway hinges on the release of which specific pro-apoptotic molecule from the mitochondrial intermembrane space into the cytosol?",
+        "options": [
+            "Fas Ligand",
+            "Cytochrome c",
+            "Tumor Necrosis Factor (TNF)",
+            "Calcium ions"
+        ],
+        "correct_answer": "Cytochrome c",
+        "explanation": "Intracellular stress shifts the balance of the BCL-2 family proteins, opening pores in the mitochondrial membrane. Cytochrome c leaks out into the cytosol, where it binds APAF-1 to form the apoptosome, activating the caspase cascade. "
+    },
+    {
+        "id": 27,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Cohort Studies",
+        "question": "In a 'Retrospective Cohort Study,' the investigator establishes the cohort based on historical exposure status rather than disease status. What makes this design different from a Case-Control study?",
+        "options": [
+            "It groups people by disease status (cases) first, then looks backward.",
+            "It groups people by their documented past exposure, then traces them forward in time to determine their current disease incidence.",
+            "It randomly assigns the past exposures based on historical records.",
+            "It calculates an Odds Ratio rather than a Relative Risk."
+        ],
+        "correct_answer": "It groups people by their documented past exposure, then traces them forward in time to determine their current disease incidence.",
+        "explanation": "In a retrospective cohort, you still start with EXPOSURE. For example, you look at employee records from 1980 (Group A worked with asbestos, Group B did not), and then trace them 'forward' to the present day to calculate the true incidence of cancer. Case-controls always start with the DISEASE first."
+    },
+    {
+        "id": 28,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Cohort Studies",
+        "question": "For a variable to be considered a true 'confounder' in an epidemiological study, it must meet three strict criteria. It must be associated with the exposure, it must not be on the direct causal pathway, and it must also:",
+        "options": [
+            "Be a completely unmeasurable psychological factor.",
+            "Be an independent risk factor for the outcome in the unexposed group.",
+            "Be evenly distributed among the study participants by randomization.",
+            "Be caused directly by the exposure itself."
+        ],
+        "correct_answer": "Be an independent risk factor for the outcome in the unexposed group.",
+        "explanation": "A classic confounder (like smoking in a study linking coffee drinking to lung cancer) must independently cause the disease (smoking causes cancer) and must be statistically linked to the exposure (coffee drinkers happen to smoke more). If it's on the direct pathway (Coffee -> High BP -> Stroke), it's a mediator, not a confounder."
+    },
+    {
+        "id": 29,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lecture 3 - Anterior And Posterior Forearm And Posterior Hand",
+        "question": "The anatomical snuffbox is a distinct depression on the lateral wrist. The medial (ulnar) border of the snuffbox is formed by the tendon of which specific muscle?",
+        "options": [
+            "Abductor pollicis longus",
+            "Extensor pollicis brevis",
+            "Extensor pollicis longus",
+            "Extensor carpi radialis longus"
+        ],
+        "correct_answer": "Extensor pollicis longus",
+        "explanation": "The anatomical snuffbox is bordered laterally by the tendons of Abductor Pollicis Longus (APL) and Extensor Pollicis Brevis (EPB), and medially by the Extensor Pollicis Longus (EPL). The scaphoid bone and radial artery lie in its floor. "
+    },
+    {
+        "id": 30,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lecture 3 - Anterior And Posterior Forearm And Posterior Hand",
+        "question": "Pronation of the forearm requires the radius to cross over the ulna. Which nerve is responsible for innervating both primary muscles of pronation (the pronator teres and pronator quadratus)?",
+        "options": [
+            "Radial nerve",
+            "Ulnar nerve",
+            "Median nerve",
+            "Musculocutaneous nerve"
+        ],
+        "correct_answer": "Median nerve",
+        "explanation": "The median nerve provides motor innervation to almost the entire anterior compartment of the forearm, including both pronator muscles. (The pronator quadratus specifically is innervated by the anterior interosseous branch of the median nerve)."
+    },
+    {
+        "id": 31,
+        "faculty": "Michael Lewandowski",
+        "session": "B4: (REQUIRED) Pain Management & HB Neurosurgery",
+        "question": "In chronic pain states, sustained and severe stimulation of C-fibers can cause a progressive amplification of the electrical response in dorsal horn neurons. This central sensitization process, driven heavily by NMDA receptor activation, is known clinically as:",
+        "options": [
+            "Allodynia",
+            "Wind-up phenomenon",
+            "Ephaptic transmission",
+            "Descending inhibition"
+        ],
+        "correct_answer": "Wind-up phenomenon",
+        "explanation": "Wind-up is a frequency-dependent increase in the excitability of spinal cord neurons. As C-fibers continuously bombard the dorsal horn, the magnesium block on NMDA receptors is removed, leading to massive calcium influx and a 'ramping up' of pain perception."
+    },
+    {
+        "id": 32,
+        "faculty": "Michael Lewandowski",
+        "session": "B4: (REQUIRED) Pain Management & HB Neurosurgery",
+        "question": "A patient suffers a seemingly minor crush injury to their hand. Weeks later, they develop severe, continuous, burning pain out of proportion to the injury, accompanied by localized sweating, edema, and abnormal skin temperature. This constellation of symptoms is highly indicative of:",
+        "options": [
+            "Post-herpetic neuralgia",
+            "Trigeminal neuralgia",
+            "Complex Regional Pain Syndrome (CRPS)",
+            "Phantom limb pain"
+        ],
+        "correct_answer": "Complex Regional Pain Syndrome (CRPS)",
+        "explanation": "CRPS (formerly known as Reflex Sympathetic Dystrophy) is characterized by severe neuropathic pain coupled with autonomic dysfunction (sweating, vasomotor changes, trophic changes to skin/nails) usually occurring after tissue trauma."
+    },
+    {
+        "id": 33,
+        "faculty": "Michael Lewandowski",
+        "session": "B4: (REQUIRED) Pain Management & HB Neurosurgery",
+        "question": "Anticonvulsant medications such as Gabapentin and Pregabalin are widely considered first-line pharmacological therapies for neuropathic pain. Their primary mechanism of action involves:",
+        "options": [
+            "Enhancing GABA-mediated chloride influx in the cerebral cortex.",
+            "Binding to the alpha-2-delta subunit of voltage-gated calcium channels, reducing neurotransmitter release.",
+            "Directly antagonizing substance P receptors in the dorsal horn.",
+            "Selectively inhibiting the reuptake of serotonin and norepinephrine."
+        ],
+        "correct_answer": "Binding to the alpha-2-delta subunit of voltage-gated calcium channels, reducing neurotransmitter release.",
+        "explanation": "Despite their names, gabapentin and pregabalin do not act directly on GABA receptors. They bind to the alpha-2-delta subunit of presynaptic voltage-gated calcium channels, decreasing calcium influx and blunting the release of excitatory neurotransmitters like glutamate."
+    },
+    {
+        "id": 34,
+        "faculty": "Michael Lewandowski",
+        "session": "B4: (REQUIRED) Pain Management & HB Neurosurgery",
+        "question": "A patient with chronic back pain who has been on escalating doses of opioid therapy begins to complain of new, widespread pain that worsens whenever the opioid dose is increased. This paradoxical clinical state is known as:",
+        "options": [
+            "Opioid tolerance",
+            "Opioid withdrawal syndrome",
+            "Opioid-induced hyperalgesia",
+            "Pseudoaddiction"
+        ],
+        "correct_answer": "Opioid-induced hyperalgesia",
+        "explanation": "Opioid-induced hyperalgesia (OIH) is a paradoxical phenomenon where prolonged exposure to opioids actually lowers the pain threshold and sensitizes nociceptive pathways, causing patients to experience increased pain from previously tolerated stimuli."
+    },
+    {
+        "id": 35,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Pathology Inflammatory Process",
+        "question": "The complement system is a vital component of the inflammatory response. Which specific assembly of complement proteins forms the lethal Membrane Attack Complex (MAC) that punches holes directly into microbial cell walls?",
+        "options": [
+            "C1q, C1r, C1s",
+            "C3a and C5a",
+            "C3b and C4b",
+            "C5b-C9"
+        ],
+        "correct_answer": "C5b-C9",
+        "explanation": "The final common pathway of the complement cascade involves the cleavage of C5. The C5b fragment recruits C6, C7, C8, and multiple copies of C9 to assemble a pore (the MAC) in the target cell membrane, causing osmotic lysis. "
+    },
+    {
+        "id": 36,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Pathology Inflammatory Process",
+        "question": "Which powerful class of anti-inflammatory drugs works high upstream in the arachidonic acid cascade by inducing lipocortins that inhibit the enzyme Phospholipase A2, thereby completely blocking the synthesis of both prostaglandins and leukotrienes?",
+        "options": [
+            "Non-selective NSAIDs (e.g., Ibuprofen)",
+            "Selective COX-2 inhibitors (e.g., Celecoxib)",
+            "Corticosteroids (e.g., Dexamethasone)",
+            "Leukotriene receptor antagonists (e.g., Montelukast)"
+        ],
+        "correct_answer": "Corticosteroids (e.g., Dexamethasone)",
+        "explanation": "Corticosteroids exert their profound anti-inflammatory effect by inhibiting phospholipase A2. This cuts off the supply of free arachidonic acid entirely, starving both the cyclooxygenase and lipoxygenase pathways. "
+    },
+    {
+        "id": 37,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Pathology Inflammatory Process",
+        "question": "During the final stage of leukocyte recruitment (transmigration or diapedesis), leukocytes must squeeze through the tight junctions between endothelial cells. This specific interaction is mediated by homophilic binding of which adhesion molecule expressed on both cells?",
+        "options": [
+            "L-selectin",
+            "Integrin LFA-1",
+            "PECAM-1 (CD31)",
+            "ICAM-1"
+        ],
+        "correct_answer": "PECAM-1 (CD31)",
+        "explanation": "PECAM-1 (Platelet Endothelial Cell Adhesion Molecule-1), also known as CD31, is expressed heavily at endothelial intercellular junctions and on leukocytes. It acts like a zipper, mediating the physical transmigration of the leukocyte out of the vessel."
+    },
+    {
+        "id": 38,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Brent White",
+        "question": "In rhabdomyolysis, the release of myoglobin is fiercely nephrotoxic. Myoglobin induces acute kidney injury (AKI) through mechanical obstruction (casts) and renal vasoconstriction, but also through a third mechanism involving:",
+        "options": [
+            "Direct oxidative toxicity to the proximal tubular epithelial cells via its heme pigment.",
+            "Autoimmune destruction of the glomerular basement membrane.",
+            "Complete systemic depletion of complement proteins.",
+            "Massive competitive inhibition of the sodium-potassium ATPase pumps."
+        ],
+        "correct_answer": "Direct oxidative toxicity to the proximal tubular epithelial cells via its heme pigment.",
+        "explanation": "Myoglobin contains an iron-bearing heme group. In the acidic environment of the distal kidney tubules, this iron generates free radicals via the Fenton reaction, directly inflicting oxidative damage and necrosis upon the tubular epithelial cells."
+    },
+    {
+        "id": 39,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Brent White",
+        "question": "A classic diagnostic clue for severe rhabdomyolysis is the urine analysis. A patient's urine appears dark 'tea' colored and tests strongly positive for blood on a standard chemical dipstick. However, microscopic examination of the urine sediment will classically reveal:",
+        "options": [
+            "Massive numbers of intact red blood cells",
+            "Zero to very few intact red blood cells",
+            "Abundant white blood cell casts",
+            "Large, hexagonal cystine crystals"
+        ],
+        "correct_answer": "Zero to very few intact red blood cells",
+        "explanation": "The chemical urine dipstick cannot distinguish between the heme in hemoglobin and the heme in myoglobin. A positive dipstick for 'blood' but a lack of actual red blood cells under the microscope is a hallmark sign of myoglobinuria (rhabdomyolysis)."
+    },
+    {
+        "id": 40,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Brent White",
+        "question": "While aggressive fluid resuscitation is life-saving in rhabdomyolysis, the combination of tissue injury and massive IV fluids carries a significant risk of causing tissue swelling confined within non-yielding fascial planes. This limb-threatening complication is called:",
+        "options": [
+            "Deep vein thrombosis",
+            "Compartment syndrome",
+            "Necrotizing fasciitis",
+            "Reflex sympathetic dystrophy"
+        ],
+        "correct_answer": "Compartment syndrome",
+        "explanation": "As injured muscles swell (exacerbated by massive IV fluid therapy), the pressure within the tight fascial compartments of the limbs can exceed capillary perfusion pressure. This chokes off blood supply to the limb, causing ischemia and necrosis (Compartment Syndrome), requiring emergency surgical fasciotomy."
+    },
+    {
+        "id": 41,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Basic Wound Repair And Skin Healing",
+        "question": "A patient with severe scurvy exhibits poor wound healing and bleeding gums due to defective collagen synthesis. Vitamin C is a mandatory enzymatic cofactor for which specific biochemical step in collagen production?",
+        "options": [
+            "The cleavage of procollagen terminal extensions in the extracellular space.",
+            "The formation of disulfide bonds between pro-alpha chains.",
+            "The hydroxylation of proline and lysine residues in the rough endoplasmic reticulum.",
+            "The action of lysyl oxidase in creating covalent cross-links outside the cell."
+        ],
+        "correct_answer": "The hydroxylation of proline and lysine residues in the rough endoplasmic reticulum.",
+        "explanation": "Ascorbic acid (Vitamin C) is required by the enzymes prolyl hydroxylase and lysyl hydroxylase. Without hydroxylated proline and lysine, the collagen triple helices cannot tightly hydrogen-bond together, resulting in weak, unstable collagen."
+    },
+    {
+        "id": 42,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Basic Wound Repair And Skin Healing",
+        "question": "Granulation tissue is the hallmark of the early proliferative phase of tissue repair. Histologically, healthy granulation tissue is characterized by an edematous extracellular matrix populated primarily by proliferating fibroblasts and:",
+        "options": [
+            "Dense bundles of mature Type I collagen.",
+            "Newly formed, leaky capillary blood vessels (angiogenesis).",
+            "Massive clusters of multinucleated giant cells.",
+            "A thick layer of stratified squamous epithelium."
+        ],
+        "correct_answer": "Newly formed, leaky capillary blood vessels (angiogenesis).",
+        "explanation": "Granulation tissue gets its pink, granular appearance from the massive proliferation of new, delicate, and highly permeable capillaries (angiogenesis) accompanied by fibroblasts depositing loose extracellular matrix."
+    },
+    {
+        "id": 43,
+        "faculty": "Daniel Mockler",
+        "session": "B4: Basic Wound Repair And Skin Healing",
+        "question": "During the resolution phase of inflammation and the onset of wound repair, macrophages shift from a pro-inflammatory (M1) state to an 'alternatively activated' (M2) state. M2 macrophages promote tissue reconstruction primarily by secreting which anti-inflammatory and fibrogenic cytokine?",
+        "options": [
+            "Tumor Necrosis Factor (TNF-alpha)",
+            "Transforming growth factor-beta (TGF-beta)",
+            "Interleukin-1 (IL-1)",
+            "Interferon-gamma (IFN-y)"
+        ],
+        "correct_answer": "Transforming growth factor-beta (TGF-beta)",
+        "explanation": "M2 macrophages dampen inflammation and drive scarring. They secrete TGF-beta, which is the most potent fibrogenic cytokine known. TGF-beta strongly stimulates fibroblasts to produce collagen and inhibits the degradation of the extracellular matrix."
+    },
+    {
+        "id": 44,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lecture 4 - Anterior Hand And Joints Of The Upper Limb",
+        "question": "While the median nerve enters the hand through the carpal tunnel, the ulnar nerve and artery enter the hand by passing superficial to the flexor retinaculum. They travel through a specific space located between the pisiform bone and the hook of the hamate called:",
+        "options": [
+            "The anatomical snuffbox",
+            "Guyon's canal (ulnar canal)",
+            "The cubital tunnel",
+            "The quadrangular space"
+        ],
+        "correct_answer": "Guyon's canal (ulnar canal)",
+        "explanation": "Guyon's canal transmits the ulnar nerve and artery into the hand. Compression here (e.g., from long-distance cycling) causes 'Handlebar palsy' with numbness in the 4th and 5th digits and weakness of the intrinsic hand muscles. "
+    },
+    {
+        "id": 45,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lecture 4 - Anterior Hand And Joints Of The Upper Limb",
+        "question": "A patient with advanced rheumatoid arthritis presents with a classic finger deformity characterized by hyperextension of the proximal interphalangeal (PIP) joint and flexion of the distal interphalangeal (DIP) joint. This is clinically described as a:",
+        "options": [
+            "Boutonniere deformity",
+            "Swan neck deformity",
+            "Mallet finger",
+            "Dupuytren's contracture"
+        ],
+        "correct_answer": "Swan neck deformity",
+        "explanation": "A swan neck deformity involves PIP hyperextension and DIP flexion, often due to disruption of the volar plate. A Boutonniere deformity is the exact opposite (PIP flexion, DIP hyperextension) due to disruption of the central slip of the extensor tendon."
+    },
+    {
+        "id": 46,
+        "faculty": "Gillian Moritz",
+        "session": "B4: Gross Lecture 4 - Anterior Hand And Joints Of The Upper Limb",
+        "question": "The complex motion of 'opposition' brings the thumb across the palm to touch the other digits. Which specific intrinsic hand muscle is primarily responsible for the rotational component of this movement, and what is its innervation?",
+        "options": [
+            "Opponens pollicis; recurrent branch of the median nerve",
+            "Adductor pollicis; deep branch of the ulnar nerve",
+            "Flexor pollicis brevis; superficial branch of the radial nerve",
+            "Abductor pollicis longus; posterior interosseous nerve"
+        ],
+        "correct_answer": "Opponens pollicis; recurrent branch of the median nerve",
+        "explanation": "The opponens pollicis lies deep within the thenar eminence. It attaches to the shaft of the 1st metacarpal and pulls it across the palm, rotating it medially. Like most thenar muscles, it is innervated by the recurrent branch of the median nerve."
+    },
+    {
+        "id": 47,
+        "faculty": "Howard Chen",
+        "session": "B4: Alternative Pain Treatments",
+        "question": "While acupuncture is considered remarkably safe when performed by a professional, it does carry certain absolute and relative contraindications. Acupuncture should be used with extreme caution or avoided entirely in patients presenting with:",
+        "options": [
+            "Chronic tension-type headaches",
+            "Severe bleeding disorders or active high-dose anticoagulant therapy",
+            "Stable, diet-controlled type 2 diabetes",
+            "A history of mild seasonal allergies"
+        ],
+        "correct_answer": "Severe bleeding disorders or active high-dose anticoagulant therapy",
+        "explanation": "Because acupuncture involves the insertion of solid needles into the tissue, patients with severe coagulopathies (like hemophilia) or those on aggressive anticoagulant therapy are at a high risk for significant bleeding and hematoma formation."
+    },
+    {
+        "id": 48,
+        "faculty": "Howard Chen",
+        "session": "B4: Alternative Pain Treatments",
+        "question": "Transcutaneous Electrical Nerve Stimulation (TENS) is a non-pharmacologic pain modality based heavily on the Gate Control Theory. TENS units are designed to primarily stimulate which specific nerve fibers to achieve pain relief?",
+        "options": [
+            "Small, unmyelinated C-fibers",
+            "Large, myelinated A-beta mechanoreceptor fibers",
+            "Preganglionic sympathetic efferents",
+            "A-alpha motor neurons"
+        ],
+        "correct_answer": "Large, myelinated A-beta mechanoreceptor fibers",
+        "explanation": "TENS units deliver a buzzing, non-painful electrical stimulus that activates large A-beta fibers. According to Gate Control Theory, this A-beta traffic activates inhibitory interneurons in the dorsal horn, 'closing the gate' to the slower C-fiber pain signals."
+    },
+    {
+        "id": 49,
+        "faculty": "Howard Chen",
+        "session": "B4: Alternative Pain Treatments",
+        "question": "The 'placebo effect' frequently observed in alternative pain medicine is not merely psychological; it is a measurable physiological response. Research has shown that placebo-induced analgesia is often mediated by the brain's release of:",
+        "options": [
+            "Endogenous opioids (endorphins), which can be blocked by giving naloxone.",
+            "Massive amounts of circulating cortisol.",
+            "Substance P into the cerebrospinal fluid.",
+            "Bradykinin in the peripheral tissues."
+        ],
+        "correct_answer": "Endogenous opioids (endorphins), which can be blocked by giving naloxone.",
+        "explanation": "The placebo effect for pain is a real biological phenomenon. Expectation of pain relief triggers the descending pain modulation system to release endogenous opioids. This has been proven because giving the patient Naloxone (an opioid blocker) actually eliminates the placebo analgesia."
+    },
+    {
+        "id": 50,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Randomized Controlled Trials Part 1",
+        "question": "In a randomized controlled trial, some patients may drop out, switch groups, or fail to take their medication. To preserve the benefits of randomization and avoid bias, researchers should analyze all patients in the group they were originally assigned to, regardless of what actually happened. This critical rule is known as:",
+        "options": [
+            "Per-protocol analysis",
+            "Intention-to-treat (ITT) analysis",
+            "Stratified random analysis",
+            "The Hawthorne effect"
+        ],
+        "correct_answer": "Intention-to-treat (ITT) analysis",
+        "explanation": "Intention-to-treat (ITT) analysis dictates 'once randomized, always analyzed.' If you only analyze the people who perfectly followed the rules (per-protocol), you destroy the randomization and introduce selection bias, because people who drop out or fail therapy are usually fundamentally different from those who succeed."
+    },
+    {
+        "id": 51,
+        "faculty": "John Westhoff",
+        "session": "B4: ESP: Randomized Controlled Trials Part 1",
+        "question": "To minimize bias during an RCT, investigators often employ a 'double-blind' design. The primary purpose of a strict double-blind protocol is to ensure that:",
+        "options": [
+            "Neither the study participants nor the clinical investigators/assessors know who is receiving the active treatment.",
+            "The participants do not know they are in an experiment, and the public doesn't know either.",
+            "Two completely independent statisticians analyze the final data separately.",
+            "Neither the control group nor the treatment group receives standard-of-care medical treatment."
+        ],
+        "correct_answer": "Neither the study participants nor the clinical investigators/assessors know who is receiving the active treatment.",
+        "explanation": "Blinding the patient prevents the placebo effect from unequally benefiting the treatment group. Blinding the clinician/assessor prevents them from subconsciously treating the groups differently or grading the outcomes favorably for the drug they hope will work."
+    },
+    {
+        "id": 52,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Steven Burns",
+        "question": "In severe burn injuries, massive fluid shifts cause profound hypovolemic shock. According to the Parkland (or modified Brooke) formula, what is the preferred type of intravenous fluid used for resuscitation in the first 24 hours to avoid hyperchloremic acidosis?",
+        "options": [
+            "0.45% Half-Normal Saline",
+            "0.9% Normal Saline",
+            "Lactated Ringer's solution",
+            "5% Dextrose in Water (D5W)"
+        ],
+        "correct_answer": "Lactated Ringer's solution",
+        "explanation": "Lactated Ringer's (LR) is the standard of care for burn resuscitation. Normal saline (0.9% NaCl) contains massive amounts of chloride; giving the 10+ liters often required for a major burn using Normal Saline would cause a severe hyperchloremic non-anion gap metabolic acidosis."
+    },
+    {
+        "id": 53,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Steven Burns",
+        "question": "Following the acute fluid resuscitation phase, severe burn patients are highly immunosuppressed and lack their primary skin barrier. Which opportunistic organism is notoriously the most common and dangerous cause of invasive burn wound sepsis?",
+        "options": [
+            "Streptococcus pneumoniae",
+            "Pseudomonas aeruginosa",
+            "Clostridium tetani",
+            "Mycobacterium tuberculosis"
+        ],
+        "correct_answer": "Pseudomonas aeruginosa",
+        "explanation": "Pseudomonas aeruginosa thrives in moist environments and dead tissue. It is notorious for infecting severe, deep burns, characterized by a sweet/grape-like odor and a blue-green purulent exudate, rapidly leading to fatal sepsis if not aggressively treated."
+    },
+    {
+        "id": 54,
+        "faculty": "Aaron Heckelman",
+        "session": "B4: (REQUIRED) Case Conference: Steven Burns",
+        "question": "A patient with full-thickness, circumferential burns around their entire forearm develops progressive swelling. The dead, leathery skin acts as a tourniquet, cutting off arterial blood supply to the hand. What is the immediate, life-saving surgical intervention required?",
+        "options": [
+            "Fasciotomy",
+            "Escharotomy",
+            "Skin grafting",
+            "Amputation"
+        ],
+        "correct_answer": "Escharotomy",
+        "explanation": "An escharotomy is a surgical incision through the dead, unyielding burn tissue (eschar) to release the mechanical pressure and restore blood flow to the distal limb. (A fasciotomy cuts through the deep muscle fascia and is used for internal compartment syndrome, not external eschar constriction)."
+    }
+]
