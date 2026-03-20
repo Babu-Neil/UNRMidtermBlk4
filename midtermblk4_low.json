@@ -717,42 +717,42 @@
         "id": 52,
         "faculty": "Aaron Heckelman",
         "session": "B4: (REQUIRED) Case Conference: Steven Burns",
-        "question": "In severe burn injuries, massive fluid shifts cause profound hypovolemic shock. According to the Parkland (or modified Brooke) formula, what is the preferred type of intravenous fluid used for resuscitation in the first 24 hours to avoid hyperchloremic acidosis?",
+        "question": "Upon arrival, Steven presents with a blood pressure of 80/50 mmHg and a delayed capillary refill of 4 seconds. In severe burn patients, what is the primary pathophysiological driver of this initial 'burn shock' phase?",
         "options": [
-            "0.45% Half-Normal Saline",
-            "0.9% Normal Saline",
-            "Lactated Ringer's solution",
-            "5% Dextrose in Water (D5W)"
+            "Massive fluid extravasation due to a generalized increase in systemic capillary permeability.",
+            "Acute myocardial infarction secondary to severe carbon monoxide toxicity and hypoxia.",
+            "Profound vasodilation caused by overwhelming gram-negative bacterial sepsis.",
+            "Autonomic nervous system failure resulting from severe pain and emotional distress."
         ],
-        "correct_answer": "Lactated Ringer's solution",
-        "explanation": "Lactated Ringer's (LR) is the standard of care for burn resuscitation. Normal saline (0.9% NaCl) contains massive amounts of chloride; giving the 10+ liters often required for a major burn using Normal Saline would cause a severe hyperchloremic non-anion gap metabolic acidosis."
+        "correct_answer": "Massive fluid extravasation due to a generalized increase in systemic capillary permeability.",
+        "explanation": "Burn shock is a unique combination of hypovolemic and distributive shock. The massive systemic release of inflammatory mediators causes widespread capillary leak, driving intravascular fluid into the interstitium and severely depleting the circulating blood volume."
     },
     {
         "id": 53,
         "faculty": "Aaron Heckelman",
         "session": "B4: (REQUIRED) Case Conference: Steven Burns",
-        "question": "Following the acute fluid resuscitation phase, severe burn patients are highly immunosuppressed and lack their primary skin barrier. Which opportunistic organism is notoriously the most common and dangerous cause of invasive burn wound sepsis?",
+        "question": "During the acute phase of recovery, severe burn patients experience a profound hypermetabolic response. According to the case presentation, which of the following is a classic clinical manifestation of this state?",
         "options": [
-            "Streptococcus pneumoniae",
-            "Pseudomonas aeruginosa",
-            "Clostridium tetani",
-            "Mycobacterium tuberculosis"
+            "Severe insulin resistance and massive skeletal muscle catabolism.",
+            "Profound hypothermia and a significantly decreased resting heart rate.",
+            "Suppression of acute phase reactants and persistent leukopenia.",
+            "Enhanced gastrointestinal motility and hyperabsorption of nutrients."
         ],
-        "correct_answer": "Pseudomonas aeruginosa",
-        "explanation": "Pseudomonas aeruginosa thrives in moist environments and dead tissue. It is notorious for infecting severe, deep burns, characterized by a sweet/grape-like odor and a blue-green purulent exudate, rapidly leading to fatal sepsis if not aggressively treated."
+        "correct_answer": "Severe insulin resistance and massive skeletal muscle catabolism.",
+        "explanation": "The hypermetabolic response to severe burns is characterized by a high resting energy expenditure, tachycardia, elevated body temperature, massive muscle catabolism (protein wasting to fuel wound healing), and stress-induced insulin resistance."
     },
     {
         "id": 54,
         "faculty": "Aaron Heckelman",
         "session": "B4: (REQUIRED) Case Conference: Steven Burns",
-        "question": "A patient with full-thickness, circumferential burns around their entire forearm develops progressive swelling. The dead, leathery skin acts as a tourniquet, cutting off arterial blood supply to the hand. What is the immediate, life-saving surgical intervention required?",
+        "question": "In calculating Steven's fluid resuscitation needs, the Modified Brooke Formula was utilized. Regardless of the exact formula chosen, how must the calculated 24-hour total volume of Lactated Ringer's be administered?",
         "options": [
-            "Fasciotomy",
-            "Escharotomy",
-            "Skin grafting",
-            "Amputation"
+            "One half of the total volume is given in the first 8 hours, and the remaining half over the next 16 hours.",
+            "The entire calculated volume is administered as a rapid, continuous bolus over the first 4 hours.",
+            "The total volume is divided equally into 24 portions and given at a constant rate over 24 hours.",
+            "One third of the volume is given every 8 hours until the 24-hour period is completely finished."
         ],
-        "correct_answer": "Escharotomy",
-        "explanation": "An escharotomy is a surgical incision through the dead, unyielding burn tissue (eschar) to release the mechanical pressure and restore blood flow to the distal limb. (A fasciotomy cuts through the deep muscle fascia and is used for internal compartment syndrome, not external eschar constriction)."
+        "correct_answer": "One half of the total volume is given in the first 8 hours, and the remaining half over the next 16 hours.",
+        "explanation": "Burn resuscitation formulas dictate that the vascular fluid shift is most severe immediately following the injury. Therefore, 50% of the calculated 24-hour fluid volume must be administered aggressively within the first 8 hours post-burn, with the remaining 50% delivered over the subsequent 16 hours."
     }
 ]
