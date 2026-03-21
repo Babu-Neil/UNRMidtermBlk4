@@ -703,7 +703,7 @@
             "Inhibition of 5-lipoxygenase",
             "Inhibition of phospholipase A2"
         ],
-        "correct_answer": "Inhibition of COX-1, leading to decreased synthesis of protective gastric prostaglandins.",
+        "correct_answer": "Inhibition of COX-1",
         "explanation": "Traditional NSAIDs like naproxen non-selectively inhibit both COX-1 and COX-2. COX-1 is constitutively expressed and is responsible for producing prostaglandins (PGE2) that protect the gastric mucosa. Inhibiting COX-1 removes this protection, leading to ulcers and bleeding."
     },
     {
@@ -717,7 +717,7 @@
             "Probenecid",
             "Indomethacin"
         ],
-        "correct_answer": "Colchicine, which binds to tubulin and prevents proper microtubule polymerization.",
+        "correct_answer": "Colchicine",
         "explanation": "Colchicine is used for acute gout attacks. It binds to tubulin, disrupting microtubule formation in leukocytes. This prevents neutrophils from migrating into the inflamed joint and phagocytosing the uric acid crystals."
     },
 	{
@@ -738,7 +738,7 @@
         "id": 53,
         "faculty": "Aaron Heckelman",
         "session": "B4: (REQUIRED) Case Conference: Steven Burns",
-        "question": "According to Steven's physical exam and the 'Rule of Nines', he suffered a completely circumferentially burned right arm (9%), a partially burned left arm (7%), and burns to his anterior chest (9%), anterior abdomen (4.5%), and anterior face/neck (4.5%). What is his total estimated Burn Size?",
+        "question": "According to Steven's physical exam and the 'Rule of Nines', he suffered a completely circumferentially burned right arm, a partially burned left arm, and burns to his anterior chest, anterior abdomen, and anterior face/neck. What is his total estimated Burn Size?",
         "options": [
             "18% Total Body Surface Area",
             "25% Total Body Surface Area",
